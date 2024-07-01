@@ -1,0 +1,14 @@
+C:\Users\T570\source\repos\ApiGestionarTarea\Repositorio\bin\Release\net8.0\Repositorio.deps.json
+C:\Users\T570\source\repos\ApiGestionarTarea\Repositorio\bin\Release\net8.0\Repositorio.runtimeconfig.json
+C:\Users\T570\source\repos\ApiGestionarTarea\Repositorio\bin\Release\net8.0\Repositorio.dll
+C:\Users\T570\source\repos\ApiGestionarTarea\Repositorio\bin\Release\net8.0\Repositorio.pdb
+C:\Users\T570\source\repos\ApiGestionarTarea\Repositorio\obj\Release\net8.0\Repositorio.csproj.AssemblyReference.cache
+C:\Users\T570\source\repos\ApiGestionarTarea\Repositorio\obj\Release\net8.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T570\source\repos\ApiGestionarTarea\Repositorio\obj\Release\net8.0\Repositorio.AssemblyInfoInputs.cache
+C:\Users\T570\source\repos\ApiGestionarTarea\Repositorio\obj\Release\net8.0\Repositorio.AssemblyInfo.cs
+C:\Users\T570\source\repos\ApiGestionarTarea\Repositorio\obj\Release\net8.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\T570\source\repos\ApiGestionarTarea\Repositorio\obj\Release\net8.0\Repositorio.dll
+C:\Users\T570\source\repos\ApiGestionarTarea\Repositorio\obj\Release\net8.0\refint\Repositorio.dll
+C:\Users\T570\source\repos\ApiGestionarTarea\Repositorio\obj\Release\net8.0\Repositorio.pdb
+C:\Users\T570\source\repos\ApiGestionarTarea\Repositorio\obj\Release\net8.0\Repositorio.genruntimeconfig.cache
+C:\Users\T570\source\repos\ApiGestionarTarea\Repositorio\obj\Release\net8.0\ref\Repositorio.dll
