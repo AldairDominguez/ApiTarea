@@ -6,7 +6,7 @@ ApiTarea es un proyecto diseñado para proporcionar servicios relacionados con l
 
 El proyecto se organiza en varias capas y bibliotecas de clases que se comunican entre sí para gestionar las operaciones de la API de gestión de tareas. A continuación se describen los componentes clave:
 
-![Diagrama de Arquitectura]()
+![Diagrama de Arquitectura](https://github.com/AldairDominguez/ApiTarea/blob/main/ApiGestionarTarea/Properties/23.PNG)
 
 ## ⚙️ Requisitos Previos
 
